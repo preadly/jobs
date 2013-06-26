@@ -45,4 +45,4 @@ independable.
 
 ### Contact
 
-Interested? Contact [on@pread.ly](mailto:on@pread.ly)
+Interested? Contact [jobs@pread.ly](mailto:jobs@pread.ly)
