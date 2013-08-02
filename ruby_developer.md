@@ -38,7 +38,7 @@ It would be an advantage if you also have experience with:
 
 You will be working in a small and casual development team, where only some
 people are located in the Copenhagen office. Therefore you must be able to work
-independable.
+independently.
 
 *We work hard and have fun!*
 
